@@ -16,17 +16,7 @@
 
 **A production-grade Next-Generation Firewall built by [Allben Rakgoale](https://github.com/allben09) that classifies network traffic using Machine Learning, generates real firewall rules, and automatically blocks malicious IPs — moving from detection to prevention.**
 
-[🌐 Live Demo](https://allben-ngfw-ml-firewall.streamlit.app/) · [📊 Architecture](#-architecture) · [🚀 Quick Start](#-quick-start) · [🧠 ML Model](#-ml-model-details) · [📸 Screenshots](#-screenshots)
-
----
-
-### 🌐 **Try the Live Dashboard**
-
-👉 **[https://allben-ngfw-ml-firewall.streamlit.app](https://allben-ngfw-ml-firewall.streamlit.app/)**
-
-> ⚠️ **Demo Note:** This dashboard uses **simulated network traffic** (2,000 flows with injected attacks). The full pipeline works identically with real traffic from Zeek, Suricata, or NetFlow exporters.
-
-</div>
+ [📊 Architecture](#-architecture) · [🚀 Quick Start](#-quick-start) · [🧠 ML Model](#-ml-model-details) · [📸 Screenshots](#-screenshots)
 
 ---
 
